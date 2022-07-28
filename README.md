@@ -52,7 +52,7 @@ To run the app please use the following commands:
 
 # Usage 
 
-[A quick demonstration on E-Commerce Backend](https://drive.google.com/file/d/1vCfxYnWZ5REInQazN_btnAqmMmNZ_0cX/view?usp=sharing) (todo) 
+[A quick demonstration on E-Commerce Backend](https://drive.google.com/file/d/1W3c5UHheJ8qiK7EQjt6qRyCLKR5aXmeR/view?usp=sharing)
 
 # License 
 
